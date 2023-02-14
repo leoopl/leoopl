@@ -1,9 +1,9 @@
 <h1 align="center">Oi 👋, Me chamo Leonardo Leite</h1>
 <h3 align="center">Um desenvolvedor frontend apaixonado por programação que mora no Brasil</h3>
 
-- 🔭 Estou trabalhando em um **App mobile com Swift**
+- 🔭 Estou trabalhando em um **Aplicação WEB**
 
-- 🌱 Atualmente estou aprendendo **Swift**
+- 🌱 Atualmente estou aperfeiçoando **TS, NEXTJS, CSS**
 
 - 🤝 Procuro ajuda pra **Achar um emprego em Frontend**
 
