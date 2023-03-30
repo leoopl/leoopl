@@ -1,11 +1,11 @@
 <h1 align="center">Oi 👋, Me chamo Leonardo Leite</h1>
-<h3 align="center">Um desenvolvedor frontend apaixonado por programação que mora no Brasil</h3>
+<h3 align="center">Um desenvolvedor apaixonado por programação que mora no Brasil</h3>
 
-- 🔭 Estou trabalhando em um **Aplicação WEB**
+- 🔭 Estou trabalhando em um **Projeto de Blockchain**
 
-- 🌱 Atualmente estou aperfeiçoando **TS, NEXTJS, CSS**
+- 🌱 Atualmente estou aperfeiçoando **Blockchain**
 
-- 🤝 Procuro ajuda pra **Achar um emprego em Frontend**
+- 🤝 Procuro ajuda pra **Achar um emprego de desenvolverdor Blockchain ou Frontend**
 
 - 📄 CV [https://bityli.com/FeoxUdvx](https://bityli.com/FeoxUdvx)
 
