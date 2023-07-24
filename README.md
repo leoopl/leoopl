@@ -7,7 +7,7 @@
 
 - 🤝 Procuro ajuda pra **Achar um emprego de desenvolverdor Blockchain ou Frontend**
 
-- 📄 CV [https://bityli.com/FeoxUdvx](https://bityli.com/FeoxUdvx)
+- 📄 [CV](https://docs.google.com/document/d/1cxfnSBGFAIOZZSKthNpvJ8LkUxzdeSS_/edit?usp=sharing&ouid=107596389079459120873&rtpof=true&sd=true)
 
 - ⚡ Fun fact **Já encontrei uma Puma selvagem e sai vivo**
 
