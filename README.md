@@ -3,7 +3,7 @@
 
 - 🔭 Estou trabalhando em um **Projeto de Blockchain**
 
-- 🌱 Atualmente estou aperfeiçoando **Blockchain**
+- 🌱 Atualmente estou aperfeiçoando **Hyperledger Fabric**
 
 - 🤝 Procuro ajuda pra **Achar um emprego de desenvolverdor Blockchain ou Frontend**
 
