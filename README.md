@@ -7,7 +7,7 @@
 
 - 🤝 Procuro ajuda pra **Achar um emprego de engenheiro de software**
 
-- 📄 [CV]([https://docs.google.com/document/d/1cxfnSBGFAIOZZSKthNpvJ8LkUxzdeSS_/edit?usp=sharing&ouid=107596389079459120873&rtpof=true&sd=true](https://docs.google.com/document/d/1ZqwMb5W86H3rNjOtcGrXIjASCkdr2n_l/edit?usp=sharing&ouid=107596389079459120873&rtpof=true&sd=true))
+- 📄 [CV](https://docs.google.com/document/d/1ZqwMb5W86H3rNjOtcGrXIjASCkdr2n_l/edit?usp=sharing&ouid=107596389079459120873&rtpof=true&sd=true)
 
 - ⚡ Fun fact **Já encontrei uma Puma selvagem e sai vivo**
 
